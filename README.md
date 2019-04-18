@@ -6,3 +6,4 @@
 3. Data Conversion
 4. Joining & Merging
 5. Concatenation
+6. Changing the Column headers
