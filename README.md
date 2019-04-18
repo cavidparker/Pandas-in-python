@@ -3,3 +3,4 @@
 ## Pandas Operations :
 1. Slicing The DataFrame
 2. Changing the index
+3. Data Conversion
