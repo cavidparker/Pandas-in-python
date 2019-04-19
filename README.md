@@ -7,3 +7,4 @@
 4. Joining & Merging
 5. Concatenation
 6. Changing the Column headers
+7. Data Munging
