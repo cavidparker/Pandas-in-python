@@ -8,5 +8,4 @@
 5. Concatenation
 6. Changing the Column headers
 7. Data Munging :
-
 Convert a particular format of data into a different format( If you have a CSV file data,you can convert it to HTML or any other format    as well
