@@ -17,3 +17,4 @@ Convert a particular format of data into a different format( If you have a CSV f
 - High Median
 - Low Median
 ### 3. Mode :
+### 4. Variance
