@@ -12,7 +12,8 @@ Convert a particular format of data into a different format( If you have a CSV f
 
 #  Python For Statistics
 
-### 1. Mean
+### 1. Mean :
 ### 2. Median :
 - High Median
 - Low Median
+### 3. Mode :
