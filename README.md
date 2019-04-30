@@ -8,6 +8,7 @@
 ### 5. Concatenation
 ### 6. Changing the Column headers
 ### 7. Data Munging :
+### 8. Merging DataFrame 
 Convert a particular format of data into a different format( If you have a CSV file data,you can convert it to HTML or any other format    as well
 
 #  Python For Statistics
@@ -19,4 +20,3 @@ Convert a particular format of data into a different format( If you have a CSV f
 ### 3. Mode :
 ### 4. Variance :
 
-#  Merging DataFrame 
