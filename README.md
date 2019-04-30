@@ -18,3 +18,5 @@ Convert a particular format of data into a different format( If you have a CSV f
 - Low Median
 ### 3. Mode :
 ### 4. Variance :
+
+#  Merging DataFrame 
