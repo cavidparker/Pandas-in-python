@@ -1,4 +1,5 @@
 # Pandas-in-python
+Pandas stands for “Python Data Analysis Library”.
 
 ## Pandas Operations :
 ### 1. Slicing The DataFrame
