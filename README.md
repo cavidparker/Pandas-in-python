@@ -1,5 +1,5 @@
 # Pandas-in-python
-Pandas stands for “Python Data Analysis Library”.
+Pandas stands for “Python Data Analysis Library”.Pandas is quite a game changer when it comes to analyzing data with Python and it is one of the most preferred and widely used tools in data munging/wrangling if not THE most used one
 
 ## Pandas Operations :
 ### 1. Slicing The DataFrame
